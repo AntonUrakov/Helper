@@ -129,8 +129,12 @@ h1, h2, p{
     line-height: 31px;
     text-align: left;
 }
-.text div{
+.text div {
     width: 100%;
+}
+.text h1 {
+    font-size: 58px;
+    line-height: 71px;
 }
 .pictureFaces {
     background: url('faces.png') no-repeat center;
@@ -154,6 +158,15 @@ h1, h2, p{
     color: #41537D;
     font-size: 16px;
     line-height: 20px;
+}
+.userPost {
+    padding-left: 85px;
+    background: url('avatar.png') no-repeat;
+}
+.userName {
+    color: #4C5B7C;
+    font-size: 16px;
+    line-height: 19px;
 }
 .postDate {
     color: #8390AE;
